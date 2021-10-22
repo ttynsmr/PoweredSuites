@@ -1,0 +1,1 @@
+powershell -NoProfile -ExecutionPolicy Unrestricted .\Equipments\Launch.ps1
